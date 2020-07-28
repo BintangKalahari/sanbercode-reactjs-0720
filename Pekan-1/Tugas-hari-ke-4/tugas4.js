@@ -58,3 +58,5 @@ for (y=1; y<=p; y++){
     for (var i=0; i<=4; i++){
         console.log(daftarBuah.sort()[i])
     }
+
+    

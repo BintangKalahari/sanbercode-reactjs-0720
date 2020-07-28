@@ -31,3 +31,8 @@ function introduce(name, age, address, hobby){
  
 var perkenalan = introduce(name, age, address, hobby)
 console.log(perkenalan) // Menampilkan "Nama saya John, umur saya 30 tahun, alamat saya di jalan belum jadi, dan saya punya hobby yaitu Gaming!"
+
+
+
+
+
